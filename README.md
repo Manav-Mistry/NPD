@@ -38,7 +38,7 @@ Output Video:
 Clone this repository with  
 
 ```bash
-  git clone https://gitea.fuzzyapps.in/FuzzyML/number-plate-ditaction.git
+  git clone https://github.com/Manav-Mistry/Real-Time-Numberplate-Detection-and-Localization.git
 ```
 
 Also clone below repository for object tracking
