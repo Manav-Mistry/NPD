@@ -95,3 +95,6 @@ Also clone below repository for object tracking
   python -u visualization.py
 ```
 This will create an output video in the videos folder.
+
+## Accuracy Calculation
+Accuracy calculated is the average of all the best accuracies for each vehicle. You can refer to uploaded file name find_avg_accuracy.py 
